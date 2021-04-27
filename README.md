@@ -4,7 +4,7 @@ A Small BANK modeled website kind of thing just created to learn about functions
 
 # installation
 
->git clone 
+>git clone https://github.com/NeeruGana/Bank.git
 
 >cd bank
 
